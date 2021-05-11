@@ -6,7 +6,7 @@ The original design:
 
 http://yusynth.net/Modular/EN/STEINERVCF/index-v2.html
 
-## Status
+## Status: Work in Progress
 
 - done: first schematic & board design
 - done: breadboard and test
